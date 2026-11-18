@@ -1,0 +1,24 @@
+.footer {
+  padding: 16px;
+  text-align: center;
+  background: #283618;
+}
+.titulo {
+  margin: 0;
+  font-size: 20px;
+  color: #fefae0;
+  text-align: center;
+  font-family: editorial, sans-serif;
+}
+.subtitulo {
+  margin: 0;
+  font-size: 16px;
+  color: #fefae0;
+  text-align: center;
+  font-family: editorial, sans-serif;
+}
+.footer-image{
+  height: 150px;
+  width: 150px;
+  text-align: center;
+}

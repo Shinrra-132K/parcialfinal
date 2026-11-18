@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 24px;
+  height: 80px;
+  background: #283618;
+  font-family: matcha, "sans-serif";
+}
+
+.logo {
+  color: #fefae0;
+  font-weight: 100;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+

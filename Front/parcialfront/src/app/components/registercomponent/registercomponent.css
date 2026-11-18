@@ -1,0 +1,74 @@
+.card-register {
+  justify-content: center;
+  align-content: center;
+  background: #faedcd;
+  border: #d4a373 1px solid;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 60%;
+  height: 450px;
+  margin-left: 20%;
+}
+
+h1 {
+  margin: 35px;
+  font-size: 25px;
+  color: #2D1E17;
+  font-family: "editorial", sans-serif;
+  text-align: center;
+}
+
+p {
+  color: #2D1E17;
+  font-family: "editorial", sans-serif;
+  font-size: 14px;
+  margin-left: 30%;
+}
+
+
+button {
+  margin-top: 30px;
+  margin-left: 45%;
+  padding: 9px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #d4a373;
+  color: #212529;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: "editorial", sans-serif;
+}
+form {
+  display: grid;
+  gap: 14px;
+  font-family: "editorial", sans-serif;
+  font-size: 16px;
+  margin: 10px;
+}
+
+label {
+  display: grid;
+  gap: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+input:not([type="checkbox"]) {
+  padding: 9px 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+input:focus {
+  outline: 1px solid #2D1E17;
+  border-color: #2D1E17;
+}
+
+.acciones {
+  display: flex;
+  gap: 8px;
+}
+

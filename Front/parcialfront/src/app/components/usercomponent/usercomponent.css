@@ -1,0 +1,21 @@
+.card-user {
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  background: #faedcd;
+  border: #d4a373 1px solid;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 60%;
+  margin-left: 20%;
+}
+table, th, td {
+  border: 1px solid black;
+}
+.imagen{
+  display: flex;
+  width: 50px;
+}
+

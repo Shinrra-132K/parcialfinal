@@ -1,0 +1,34 @@
+h1 {
+  margin: 35px;
+  font-size: 38px;
+  color: #2D1E17;
+  font-family: "editorial", sans-serif;
+  text-align: center;
+}
+
+.card-start {
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  background: #faedcd;
+  border: #d4a373 1px solid;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 60%;
+  margin-left: 20%;
+}
+
+button {
+  padding: 9px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #d4a373;
+  color: #212529;
+  cursor: pointer;
+  margin-left: 45%;
+  margin-bottom: 20px;
+  width: 200px;
+  font-size: 0.9rem;
+}
